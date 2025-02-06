@@ -1,1 +1,1 @@
-this is a simple todolist. 
+this is a readymade todolist. 
